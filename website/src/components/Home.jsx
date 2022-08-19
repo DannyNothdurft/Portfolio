@@ -17,7 +17,6 @@ function Home() {
                 <img src={Dots} alt="35 Punkte" className='Dots-Image' />
                 <img src={Avatar} alt="Das bin ich" className='Avatar-Image' />
             </div>
-
         </div>
     )
 }
