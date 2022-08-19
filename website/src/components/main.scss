@@ -5,7 +5,8 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: sans-serif;
+    font-family: 'Karla', sans-serif;
+    color: #130f49;
 }
 
 .Navigation-Componente {
@@ -14,7 +15,33 @@
     left: 0;
     right: 0;
     margin: 20px 45px;
+    display: flex;
+    justify-content: space-around;
     z-index: 100;
+
+    ul {
+        list-style-type: none;
+
+        display: flex;
+        gap: 5px;
+
+        li {
+            cursor: pointer;
+            font-size: 16px;
+            font-weight: 700;
+            padding: 12px 22px;
+
+            a {
+                text-decoration: none;
+                letter-spacing: -0.02em;
+            }
+
+            :hover {
+                color: #34a1cd;
+            }
+        }
+    }
+
 }
 
 .Home-Componente {
@@ -44,7 +71,6 @@
         }
 
         p {
-            font-family: 'Karla', sans-serif;
             font-size: 18px;
 
             a {

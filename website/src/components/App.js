@@ -1,5 +1,5 @@
 import React from 'react';
-import { BrowserRouter } from 'react-router-dom';
+import { BrowserRouter, Routes, Route } from 'react-router-dom';
 
 import Navigation from './Navigation';
 import Home from './Home';
@@ -9,7 +9,9 @@ function App() {
   return (
     <BrowserRouter>
       <Navigation />
-      <Home />
+      <Routes>
+        <Route path='/' element={<Home />} />
+      </Routes>
     </BrowserRouter>
   );
 }
