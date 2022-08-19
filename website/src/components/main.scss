@@ -225,7 +225,32 @@
 
 .DSGVO-Pages {
     min-height: calc(100vh - 41px);
-    padding-top: 41px;
+    min-width: 100vw;
+    padding: 70px;
+    background-color: #e9f9ff;
+    font-family: "Karla", sans-serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    h1,
+    h2,
+    h3 {
+        font-family: 'Space Grotesk', sans-serif;
+        max-width: 800px;
+        margin-top: 20px;
+    }
+
+    p,
+    ul {
+        max-width: 800px;
+        margin-top: 10px;
+
+        li {
+            margin-top: 5px;
+        }
+    }
 }
 
 .Footer-Componente {
