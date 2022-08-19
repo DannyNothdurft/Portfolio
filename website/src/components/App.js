@@ -1,11 +1,14 @@
 import React from 'react';
+import { BrowserRouter } from 'react-router-dom';
 
 import Home from './Home';
 import './main.scss';
 
 function App() {
   return (
-    <Home />
+    <BrowserRouter>
+      <Home />
+    </BrowserRouter>
   );
 }
 
