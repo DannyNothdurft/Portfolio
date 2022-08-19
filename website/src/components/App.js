@@ -1,12 +1,11 @@
 import React from 'react';
 
+import Home from './Home';
 import './main.scss';
 
 function App() {
   return (
-    <div>
-      <h1>Portfolio Websete</h1>
-    </div>
+    <Home />
   );
 }
 
