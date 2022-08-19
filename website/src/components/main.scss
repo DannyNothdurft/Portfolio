@@ -5,18 +5,20 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: 'Karla', sans-serif;
     color: #130f49;
 }
 
+// Desktop-first
 .Navigation-Componente {
     position: absolute;
     top: 0;
     left: 0;
     right: 0;
     margin: 20px 45px;
+    font-family: "Karla", sans-serif;
     display: flex;
     justify-content: space-around;
+    align-items: center;
     z-index: 100;
 
     ul {
@@ -44,8 +46,10 @@
 }
 
 .Home-Componente {
-    min-height: 100vh;
+    min-height: calc(100vh - 41px);
+    padding-top: 41px;
     min-width: 100vw;
+    font-family: "Karla", sans-serif;
     background-color: #ffffff;
     display: flex;
     justify-content: center;
@@ -67,6 +71,7 @@
             font-family: 'Space Grotesk', sans-serif;
             font-size: 60px;
             margin-bottom: 20px;
+            letter-spacing: -0.1em;
         }
 
         p {
@@ -113,12 +118,125 @@
 
 }
 
+.AboutMe-Pages {
+    min-height: calc(100vh - 41px);
+    padding-top: 41px;
+}
+
+.Projects-Pages {
+    min-height: calc(100vh - 41px);
+    padding-top: 41px;
+}
+
+.Contact-Pages {
+    min-height: calc(100vh - 41px);
+    padding-top: 41px;
+    min-width: 100vw;
+    font-family: "Karla", sans-serif;
+    background-color: #e9f9ff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 100px;
+    overflow-x: visible;
+
+    .Text-Container {
+        font-family: 'Space Grotesk', sans-serif;
+        font-weight: 700;
+        font-size: 30px;
+        letter-spacing: -0.04em;
+    }
+
+    .Contact-Formular {
+        background-color: #ffffff;
+        width: 577px;
+        height: 680px;
+        border-radius: 25px;
+        letter-spacing: -0.04em;
+        font-size: 18px;
+        padding: 80px 40px;
+
+        label {
+            display: block;
+            color: #b4b2c5;
+            margin-top: 25px;
+
+            .Stern {
+                color: #60d1ff;
+                margin-left: 2px;
+            }
+
+            input {
+                display: block;
+                width: 100%;
+                font-size: 18px;
+                padding: 15px;
+                border: none;
+                border-bottom: 1px solid #b4b2c5;
+                color: #999999;
+            }
+
+            textarea {
+                display: block;
+                width: 100%;
+                border: none;
+                border-bottom: 1px solid #b4b2c5;
+                color: #999999;
+                padding: 15px;
+            }
+        }
+
+        .Form-Button {
+            border: 0;
+            background-color: #130f49;
+            color: #fff;
+            padding: 20px 32px;
+            border-radius: 12px;
+            font-size: 18px;
+            margin-top: 30px;
+            cursor: pointer;
+        }
+
+    }
+}
+
+.Impressum-Pages {
+    min-height: calc(100vh - 41px);
+    min-width: 100vw;
+    padding-top: 41px;
+    background-color: #e9f9ff;
+    font-family: "Karla", sans-serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    h1,
+    h2 {
+        font-family: 'Space Grotesk', sans-serif;
+        margin-top: 20px;
+    }
+
+    p {
+        margin-top: 10px;
+    }
+
+}
+
+.DSGVO-Pages {
+    min-height: calc(100vh - 41px);
+    padding-top: 41px;
+}
+
 .Footer-Componente {
-    position: absolute;
+    position: sticky;
     bottom: 0;
-    left: 0;
-    right: 0;
-    margin: 20px 45px;
+    width: 90%;
+    margin: 0 auto;
+    font-family: "Karla", sans-serif;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
     z-index: 100;
 
     ul {
