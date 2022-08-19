@@ -7,8 +7,8 @@ function Navigation() {
             Logo
             <ul>
                 <li> <NavLink to="/">Home</NavLink> </li>
-                <li> <NavLink to="aboutme">Über mich</NavLink> </li>
-                <li> <NavLink to="/project">Projekte</NavLink> </li>
+                <li> <NavLink to="/aboutme">Über mich</NavLink> </li>
+                <li> <NavLink to="/projects">Projekte</NavLink> </li>
                 <li> <NavLink to="/contact">Kontakt</NavLink> </li>
             </ul>
         </div>
