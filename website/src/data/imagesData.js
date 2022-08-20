@@ -1,0 +1,13 @@
+exports.GEHIRNTRAINING = require('../images/Gehirn-Training.png')
+exports.EIERUHR = require('../images/Eieruhr.png')
+exports.EINKAUFSLISTE = require('../images/Einkaufsliste.png')
+exports.STOPUHR = require('../images/Stopuhr.png')
+exports.DERPROBLEMLÖSER = require('../images/Der-Problemlöser.png')
+exports.TASCHENRECHNER = require('../images/Taschenrechner.png')
+exports.DANNYNOTHDURFTSITEONE = require('../images/Danny-Nothdurft-Siteone.png')
+exports.THECRYPTOBOOK = require('../images/The-CryptoBook.png')
+exports.CASHBACKAPP = require('../images/Cashback-App.png')
+exports.DRINKRENDOMLY = require('../images/Drink-Rendomly.png')
+exports.ONLINETRAIDINGCARD = require('../images/Online-Traiding-Card.png')
+exports.ELSAMEMORY = require('../images/Elsa-Memory.png')
+

@@ -1,0 +1,98 @@
+[
+    {
+        "id": "94a79eb1-68c5-43ba-9bb9-3e72be397cdb",
+        "titel": "Einfacher Taschenrechner",
+        "text": "Der einfache Taschenrechner ist das erste mini Projekt. Der Taschenrechner besitzt keine komplizierten Funktionen.",
+        "github": "https://github.com/DannyNothdurft/",
+        "website": "https://dannycalc.netlify.app/",
+        "image": "TASCHENRECHNER"
+    },
+    {
+        "id": "470964fb-086c-4a88-ba73-4f50f3fa01cf",
+        "titel": "Einfache Einkaufsliste",
+        "text": "Die einfache Einkaufsliste ist sehr simple gehalten. Die Liste wird im Local Storage gespeichert.",
+        "github": "https://github.com/DannyNothdurft/",
+        "website": "https://ekl.netlify.app/",
+        "image": "EINKAUFSLISTE"
+    },
+    {
+        "id": "2018ed7f-5b71-4319-a350-ffe3a7250184",
+        "titel": "Einfache Eieruhr",
+        "text": "Die einfache Eieruhr kann nur Eier kochen, die eine Kochzeit von 5 Minuten haben. Hier habe ich die setInterval Funktion getestet.",
+        "github": "https://github.com/DannyNothdurft/",
+        "website": "https://dannyeieruhr.netlify.app/",
+        "image": "EIERUHR"
+    },
+    {
+        "id": "662843f9-97d6-46b7-96b3-c15ade4a4071",
+        "titel": "Einfache Stopuhr",
+        "text": "Mit der einfachen Stoppuhr wollte ich meine Kenntnisse mit dem setInterval nochmal verstärken wollen.",
+        "github": "https://github.com/DannyNothdurft",
+        "website": "https://dnstopuhr.netlify.app/",
+        "image": "STOPUHR"
+    },
+    {
+        "id": "3a6d0004-2307-459d-a413-8a11a0d8d6d1",
+        "titel": "Gehirn Training",
+        "text": "Gehirn-Training ist ein kleines Programm, um das Gehirn zu trainieren. Hier werden kleine Rechenaufgaben angezeigt, die innerhalb von 10 Sekunden gelöst werden müssen. Werden die Aufgaben gelöst, erhält man 1 Erfahrungspunkt, für jede nicht gelöste Aufgabe, wird 1 Lebenspunkt abgezogen. Sobald die Lebenspunkte auf 0 gefallen sind, muss man bis zum nächsten Tag warten, um weiterzuspielen.",
+        "github": "https://github.com/DannyNothdurft/Gehirn-Training",
+        "website": "https://gehirn-training.netlify.app/",
+        "image": "GEHIRNTRAINING"
+    },
+    {
+        "id": "374a371e-5036-4134-8fe2-8cbb34b9e7bc",
+        "titel": "Drink randomly",
+        "text": "Drink randomly ist ein kleines Trinkspiel. Hier wollte ich die Anleitung in verschiedene Sprachen anbieten.",
+        "github": "https://github.com/DannyNothdurft",
+        "website": "https://drinkrandomly.netlify.app/",
+        "image": "DRINKRENDOMLY"
+    },
+    {
+        "id": "54b14afa-448a-45ef-885e-5ae76a5da0de",
+        "titel": "The CryptoBook - Lexikon",
+        "text": "2020 habe ich ein Lexikon für Kryptowährung geschrieben. Diese Seite soll als Produkt Webseite dienen. Diese Seite ist aber noch nicht fertig.",
+        "github": "https://github.com/DannyNothdurft/CryptoBook",
+        "website": "https://thecryptobook.netlify.app/",
+        "image": "THECRYPTOBOOK"
+    },
+    {
+        "id": "d6fde76c-588b-444a-a728-d3db9f4762c8",
+        "titel": "Cashback App",
+        "text": "Diese kleine mini Webseite habe ich für meine Frau geschrieben. Hier sind kleine Icons angeordnet wie im Handy die Apps und durch das Klicken der Icons gelangt man zu den entsprechenden Shops.",
+        "github": "https://github.com/DannyNothdurft/cashback_app",
+        "website": "https://cashback.netlify.app/",
+        "image": "CASHBACKAPP"
+    },
+    {
+        "id": "ef695452-9d92-4ceb-8095-708ee6d26d0a",
+        "titel": "Danny Nothdurft Portfolio One",
+        "text": "Auf dieser Webseite ist wie hier auch eine Selbstdarstellung. Diese Webseite ist mir jetzt aber doch zu Dunkel und habe mich für diese hellere Webseite entschieden. Trotzdem wollte ich diese Webseite jetzt nicht löschen.",
+        "github": "https://github.com/DannyNothdurft/my-website",
+        "website": "https://dannyn.netlify.app/",
+        "image": "DANNYNOTHDURFTSITEONE"
+    },
+    {
+        "id": "8e442eba-9904-4d4f-87fe-ffaee523398c",
+        "titel": "Elsa Memory",
+        "text": "Für meine kleine Tochter habe ich dieses Memory Spiel programmiert. Über das iPad lässt es sich sehr leicht bedienen.",
+        "github": "https://github.com/DannyNothdurft/ElsaMemory",
+        "website": "https://elsamemorysavannah.netlify.app/",
+        "image": "ELSAMEMORY"
+    },
+    {
+        "id": "89150a2a-df39-4db2-b130-312a4e96c5ef",
+        "titel": "Online Traiding Card",
+        "text": "Online Traiding Card wird ein Langzeitprojekt. Jetzt gerade kann man sich auf der Webseite registrieren und einloggen. Die Auth Verifizierung wird gerade mit Firebase realisiert, dies möchte ich aber in Zukunft ändern. Diese Webseite soll später eine Social-Media-Plattform werden, wo man jeden Tag kostenlos eine Karte erhält, die Karte wiederum soll ein NFT sein. Ich rechne damit, dass ich diese Webseite 2030 fertiggestellt habe.",
+        "github": "https://github.com/DannyNothdurft",
+        "website": "https://onlinetraidingcard.netlify.app/",
+        "image": "ONLINETRAIDINGCARD"
+    },
+    {
+        "id": "58543b78-11f0-4f1d-9f3a-91d8d875540b",
+        "titel": "Der Problemlöser",
+        "text": "Mit dem Problemlöser wollte ich eine Funktion haben, um Objekte zu filtern. Die Idee eine Lösung für mein Problem zu finden fand ich damit passend. Nun muss ich mir nur noch überlegen, welche Probleme ich hier behandeln möchte. Bisher sind nur Platzhalter hier hinterlegt.",
+        "github": "https://github.com/DannyNothdurft/",
+        "website": "https://problemloeser.netlify.app/",
+        "image": "DERPROBLEMLÖSER"
+    }
+]
