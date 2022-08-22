@@ -3,7 +3,7 @@ import { ExternalLink } from 'react-external-link';
 
 import Dots from '../images/Dots_Purple.svg';
 import CirBack from '../images/Circle_Background.svg';
-import Avatar from '../images/Profil_Pic.jpeg';
+import Avatar from '../images/Profil_Pic.png';
 
 function Home() {
     return (

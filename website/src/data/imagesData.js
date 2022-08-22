@@ -10,4 +10,3 @@ exports.CASHBACKAPP = require('../images/Cashback-App.png')
 exports.DRINKRENDOMLY = require('../images/Drink-Rendomly.png')
 exports.ONLINETRAIDINGCARD = require('../images/Online-Traiding-Card.png')
 exports.ELSAMEMORY = require('../images/Elsa-Memory.png')
-

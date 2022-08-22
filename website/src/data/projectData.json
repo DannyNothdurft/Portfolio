@@ -10,7 +10,7 @@
     {
         "id": "470964fb-086c-4a88-ba73-4f50f3fa01cf",
         "titel": "Einfache Einkaufsliste",
-        "text": "Die einfache Einkaufsliste ist sehr simple gehalten. Die Liste wird im Local Storage gespeichert.",
+        "text": "Die einfache Einkaufsliste ist sehr simple gehalten. Die Liste wird im Local Storage gespeichert. In der Liste kann man nur Positionen hinzufügen oder löschen.",
         "github": "https://github.com/DannyNothdurft/",
         "website": "https://ekl.netlify.app/",
         "image": "EINKAUFSLISTE"
