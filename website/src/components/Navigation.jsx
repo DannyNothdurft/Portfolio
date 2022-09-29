@@ -21,7 +21,6 @@ function Navigation() {
             </NavLink>
             <ul onClick={toggle} className={aktiv ? "aktive" : ""}>
                 <li> <NavLink to="/">Home</NavLink> </li>
-                <li> <NavLink to="/aboutme">Über mich</NavLink> </li>
                 <li> <NavLink to="/projects">Projekte</NavLink> </li>
                 <li> <NavLink to="/contact">Kontakt</NavLink> </li>
             </ul>
